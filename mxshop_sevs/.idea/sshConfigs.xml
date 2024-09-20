@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.43.170" id="3c0cf45e-f761-4386-b418-26f2ce8416ad" port="22" customName="centos7" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="centos7" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
